@@ -20,7 +20,6 @@ Backend:
   - Python 3.x
   - Flask (REST API)
   - SQLAlchemy (ORM)
-  - SQLite / MySQL (Database)
 Tools:
   - Git & GitHub (version control)
   - npm (frontend package manager)
