@@ -1,5 +1,4 @@
 
-
 # Project Overview
 GreenCart Simulation is a web application designed to simulate delivery operations for a logistics company. It helps managers run simulations based on available drivers, routes, and orders to analyze efficiency, profit, and delivery performance. The application includes:
 
@@ -44,7 +43,7 @@ Tools:
 2. Create a virtual environment :
     ```bash
     python -m venv venv
-    venv\Scripts\activate       # Windows
+    venv\Scripts\activate       
     ```
 
 3. Install backend dependencies:
@@ -74,12 +73,12 @@ Tools:
     npm install
     ```
 
-4. Run the frontend development server:
+3. Run the frontend development server:
     ```bash
     npm start
     ```
 
-5. The app should open at `http://localhost:3000`
+4. The app should open at `http://localhost:3000`
 
 
 ## Environment Variables
@@ -89,3 +88,12 @@ Tools:
 ```env
 # Flask secret key for sessions
 FLASK_SECRET_KEY=my_secret_key_here
+
+```
+
+## API Documentation
+
+Interactive API docs are available at: [http://localhost:5000/docs](http://localhost:5000/docs)
+
+You can explore all endpoints, see request parameters, response schemas, and try out the API directly from the browser.
+
