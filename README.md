@@ -2,7 +2,7 @@
 # Project Overview & Purpose
 GreenCart Simulation is a comprehensive logistics and delivery management application designed to help businesses optimize their delivery operations. It provides tools to manage drivers, routes, and orders effectively, and to simulate real-world delivery scenarios to maximize profitability and efficiency.
 
-Key Features:
+- Key Features:
 Driver Management: Track available drivers, their working hours, and assign delivery routes efficiently.
 
 Route Management: Define and manage routes with varying distances and traffic conditions.
@@ -13,7 +13,7 @@ Simulation Engine: Run simulations to analyze how different factors—like the n
 
 Performance Metrics: Visual dashboards present key insights such as on-time delivery rates, fuel costs, and efficiency scores to support data-driven decision-making.
 
-Purpose:
+- Purpose:
 The core purpose of GreenCart Simulation is to empower delivery businesses by providing a realistic, data-driven simulation environment that helps:
 
 Identify bottlenecks and inefficiencies in delivery processes.
