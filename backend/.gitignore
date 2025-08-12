@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Env file with secrets
+.env
+
+# Database files (if any)
+*.sqlite3
+
+# Virtual environment folders (if used)
+venv/
+env/
