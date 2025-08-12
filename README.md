@@ -2,27 +2,27 @@
 # Project Overview & Purpose
 GreenCart Simulation is a comprehensive logistics and delivery management application designed to help businesses optimize their delivery operations. It provides tools to manage drivers, routes, and orders effectively, and to simulate real-world delivery scenarios to maximize profitability and efficiency.
 
-- Key Features:
-Driver Management: Track available drivers, their working hours, and assign delivery routes efficiently.
+Key Features:
+ - Driver Management: Track available drivers, their working hours, and assign delivery routes efficiently.
 
-Route Management: Define and manage routes with varying distances and traffic conditions.
+ - Route Management: Define and manage routes with varying distances and traffic conditions.
 
-Order Management: Maintain details of delivery orders including value, delivery time, and associated routes.
+ - Order Management: Maintain details of delivery orders including value, delivery time, and associated routes.
 
-Simulation Engine: Run simulations to analyze how different factors—like the number of drivers, start times, and maximum working hours—impact overall delivery performance and profitability.
+ - Simulation Engine: Run simulations to analyze how different factors—like the number of drivers, start times, and maximum working hours—impact overall delivery performance and profitability.
 
-Performance Metrics: Visual dashboards present key insights such as on-time delivery rates, fuel costs, and efficiency scores to support data-driven decision-making.
+ - Performance Metrics: Visual dashboards present key insights such as on-time delivery rates, fuel costs, and efficiency scores to support data-driven decision-making.
 
-- Purpose:
-The core purpose of GreenCart Simulation is to empower delivery businesses by providing a realistic, data-driven simulation environment that helps:
+Purpose:
+- The core purpose of GreenCart Simulation is to empower delivery businesses by providing a realistic, data-driven simulation environment that helps:
 
-Identify bottlenecks and inefficiencies in delivery processes.
+- Identify bottlenecks and inefficiencies in delivery processes.
 
-Assess the impact of driver availability and working hours on delivery punctuality.
+- Assess the impact of driver availability and working hours on delivery punctuality.
 
-Evaluate financial outcomes including total profit after accounting for penalties and fuel costs.
+- Evaluate financial outcomes including total profit after accounting for penalties and fuel costs.
 
-Make informed decisions on resource allocation, route planning, and scheduling to improve customer satisfaction and reduce operational costs.
+- Make informed decisions on resource allocation, route planning, and scheduling to improve customer satisfaction and reduce operational costs.
 
 This application is ideal for logistics managers, delivery companies, and startups aiming to scale their delivery network while maintaining high performance and cost-effectiveness.
 
