@@ -1,4 +1,4 @@
-# backend/app.py
+
 
 from flask import Flask
 from config import Config
@@ -8,18 +8,18 @@ from routes import routes_bp
 from load_data import load_csv_data
 
 app = Flask(__name__)
-app.config.from_object(Config)  # हे config.py मधील Config class वाचून सर्व सेटिंग्ज apply करतो
+app.config.from_object(Config)  
 
-CORS(app, supports_credentials=True)  # session cookie साठी supports_credentials=True महत्वाचे आहे
+CORS(app, supports_credentials=True)  
 
 db.init_app(app)
 
 
 def create_default_manager():
-    # Check if manager already exists
+
     if not Manager.query.filter_by(username="admin").first():
         manager = Manager(username="admin")
-        manager.set_password("admin123")  # strong password ठेवा
+        manager.set_password("admin123") 
         db.session.add(manager)
         db.session.commit()
         print("Default manager user created.")
